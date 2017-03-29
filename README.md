@@ -1,5 +1,4 @@
 # hello-world
-Tutorial Repository. Just wanted to learn about this.
 
 Hi I'm hanswurschd,
 
