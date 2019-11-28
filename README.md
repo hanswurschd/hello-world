@@ -1,6 +1,6 @@
 # hello-world
 
-Hi I'm hanswurschd,
+Hi I'm a test,
 
 I'm new to github and git itself and want to know more about it.
 
